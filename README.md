@@ -1,0 +1,1 @@
+SoundDetector is a MVP that utilises Gemini API and a system's microphone to detect and measure sound. The user can set a threshold and Gemini would generate text-to-speech to remind students (or any other context) of their excessive noise.
